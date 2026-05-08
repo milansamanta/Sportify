@@ -1,0 +1,29 @@
+#navbar{
+    background-color: #344949;
+}
+
+.btn-home{
+    background-color: #618989;
+    border: none;
+    display: flex;
+    align-items: center;
+    border-radius: 50%;
+    padding: .25rem;
+}
+
+.btn-home img{
+
+    width: 2rem;
+    margin: 5%;
+}
+.btn-home:hover{
+    background-color: #699494;
+    scale: 1.1;
+    transition: all 0.2s ease-in-out;
+}
+
+.searchbox input{
+    background-color: #476464!important;
+    color: white;
+    border: 1px solid #425c5c;
+}
